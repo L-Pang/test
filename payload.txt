@@ -36,9 +36,9 @@
         ["?x=y"],
         ["?x=y"],
         ["?x=y"],
-        ["search?search=person"],
-        ["search?search=drive"],
-        ["test/tweet?count=5"]
+        ["search?search=mobile"],
+        ["test/tweet?count=5"],
+        ["test/tweet?count=10"]
       ]
     }
   ]
