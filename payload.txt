@@ -37,8 +37,8 @@
         ["?x=y"],
         ["?x=y"],
         ["search?query=mobile"],
-        ["test/tweet?count=5"],
-        ["test/tweet?count=10"]
+        ["test/tweet?tweet_count=5"],
+        ["test/tweet?tweet_count=10"]
       ]
     }
   ]
